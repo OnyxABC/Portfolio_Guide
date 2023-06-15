@@ -37,8 +37,7 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/jack-portfolio.git
 ```
-
+ -->
 ### Contact
 
 If you want to contact with me you can reach me at [Twitter](https://twitter.com/Pharm_Onyi), [LinkedIn](https://www.linkedin.com/in/onyx-ebinyasi/).
-[//] -->
