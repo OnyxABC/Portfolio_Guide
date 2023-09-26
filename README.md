@@ -85,7 +85,7 @@
 
 <div>
 <div>
-  <h4>Datacamp Projects</h4>
+  <h4>Projects</h4>
 
 <table>
   <tr>
