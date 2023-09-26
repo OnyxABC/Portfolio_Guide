@@ -15,7 +15,7 @@
 
 <ul>
   <li>
-      <a href="https://github.com/OnyxABC/Datacamp_Projects">DATACAMP Projects</a> 
+      <a href="https://github.com/OnyxABC/Datacamp_Projects">Python Projects</a> 
       <ul>
         <li>
              <a href="https://github.com/OnyxABC/Datacamp_Projects/tree/main/Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office">
